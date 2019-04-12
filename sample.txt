@@ -1,5 +1,10 @@
 public string DisplayName()
 {
+
 	cout<<"Hello, World!";
 	cout<<"Hello, World!2";
+
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
 }
