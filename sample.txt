@@ -1,5 +1,5 @@
 public string DisplayName()
 {
-	Console.WriteLine("Hello, World!");
-	Console.WriteLine("Github sample");
+	cout<<"Hello, World!";
+	cout<<"Hello, World!2";
 }
