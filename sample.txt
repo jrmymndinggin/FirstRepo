@@ -1,5 +1,6 @@
 public string DisplayName()
 {
-	Console.WriteLine("Hello, World!");
-	Console.WriteLine("Github sample");
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
 }
