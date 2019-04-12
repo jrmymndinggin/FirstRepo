@@ -1,4 +1,10 @@
+
 public String DisplayLastName()
 {
 	Console.WriteLine("Mandinggin");
+}
+
+public String DisplayAddress()
+{
+        Console.WriteLine("Caloocan City");
 }
