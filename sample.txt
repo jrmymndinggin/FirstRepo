@@ -8,3 +8,15 @@ public string DisplayName()
 	System.Out.Println("Hello, World!");
 	System.Out.Println("Hello, World!");
 }
+
+public string DisplayName2()
+{
+
+	cout<<"Hello, World!";
+	cout<<"Hello, World!2";
+
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
+	System.Out.Println("Hello, World!");
+}
+
