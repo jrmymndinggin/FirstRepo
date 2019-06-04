@@ -8,3 +8,9 @@ public String DisplayAddress()
 {
         Console.WriteLine("Caloocan City");
 }
+
+
+public String DisplayAddress2()
+{
+        Console.WriteLine("Caloocan City");
+}
